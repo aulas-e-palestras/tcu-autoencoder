@@ -1,0 +1,4 @@
+gif/*
+iframe_figures/*
+*.ipynb_checkpoints/*
+data/creditcard.csv
